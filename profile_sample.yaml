@@ -1,6 +1,5 @@
 # Preferred first and Lastname
 name: John Smith
-brief: Focused on maximizing quality
 github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_mathew
 summary: >
   Donec fermentum, lectus tempor lobortis egestas, dolor dolor rhoncus justo, id pharetra odio ligula quis odio. Morbi blandit id quam eget porttitor. Integer at ullamcorper dolor, at egestas turpis. Fusce ultricies justo tellus, a congue augue aliquet sit amet. Quisque ultrices dolor eu turpis malesuada interdum. Suspendisse in nisl et massa laoreet sodales. Nulla quis lectus sit amet velit finibus feugiat eget nec quam. Praesent eget nibh et diam mollis venenatis. 
@@ -14,37 +13,37 @@ skills:
   competent:
     - Donec
     - fermentum
+    - Donec
+    - fermentum
+    - Donec
   familiar:
     - Donec
     - fermentum
+    - fermentum
+    - fermentum
+    - fermentum
 jarvis_projects:
   - name: "Cluster Monitor"
-    status: "completed"
     git_url: "/linux_sql"
     description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
   - name: "Core Java Apps"
-    status: "completed"
     git_url: "/core_java"
     description:
       - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
       - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
       - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
   - name: "Springboot App"
-    status: "in-progress"
     git_url: "/springboot"
-    description:
+    description: ""
   - name: "Hadoop"
-    status: "not started"
     git_url: "/hadoop"
-    description:
+    description: ""
   - name: "Spark"
-    status: "not started"
     git_url: "/spark"
-    description:
+    description: ""
   - name: "Cloud/DevOps"
-    status: "not started"
     git_url: "/cloud_devops"
-    description:
+    description: ""
 highlighted_projects:
   - name: "Web app for resturant"
     git_url: "https://github.com/jarviscanada/jarvis_resume_builder"
@@ -89,6 +88,3 @@ others:
       - "Basketball player"
       - "Competitive gaming"
       - "Volunteer, ABC Food bank: Ut enim ad minim veniam"
-  - title: "something_else"
-    bullets:
-
